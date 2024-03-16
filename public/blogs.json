@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.postimg.cc/sXckx7jf/2.png",
+      "title": "Top 10 ES6 Features You Must Know",
+      "author": "John Smith",
+      "author_img": "https://i.postimg.cc/yxc0nY25/boy2.jpg",
+      "posted_date": "Mar 14 (4 Days ago)",
+      "reading_time": 5,
+      "hashtags": ["beginners", "es6"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.postimg.cc/Kj0x6nXg/3.png",
+      "title": "Component lifecycle in React-class component vs Functional component",
+      "author": "Emily Johnson",
+      "author_img": "https://i.postimg.cc/K8ns4mz0/girl1.jpg",
+      "posted_date": "Mar 15 (3 Days ago)",
+      "reading_time": 10,
+      "hashtags": ["beginners", "es6"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.postimg.cc/W3QHhzMf/4.jpg",
+      "title": "Component lifecycle in  Functional component",
+      "author": "Michael Brown",
+      "author_img": "https://i.postimg.cc/tJ32J5RY/girl2.jpg",
+      "posted_date": "Mar 17 (3 Day ago)",
+      "reading_time": 4,
+      "hashtags": ["beginners", "es6"]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.postimg.cc/MHWk5XF3/1.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "Mina Mosotofa",
+        "author_img": "https://i.postimg.cc/zvpsc8mz/boy1.png",
+        "posted_date": "Mar 17 (3 Day ago)",
+        "reading_time": 7,
+        "hashtags": ["beginners", "es6"]
+      }
+  ]
+  
